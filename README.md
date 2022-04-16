@@ -1,5 +1,5 @@
 # Machine Learning Supervised and Unsupervised Problems
-This machine learning project solved 3 different problems using supervised and unsupervised machine learning algorithms. (Principal component analysis, Multiple Linear Regression, Logistic Regression, Classification and Regression Trees (CART))
+This machine learning project solved 3 different problems using supervised and unsupervised machine learning algorithms. (Principal Component Analysis, Multiple Linear Regression, Logistic Regression, Classification and Regression Trees (CART))
 
 ## 1 Unsupervised Learning Method
 The given dataset in this section is the European Working Conditions Survey 2016. This
